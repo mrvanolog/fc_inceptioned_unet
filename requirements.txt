@@ -1,0 +1,16 @@
+ipykernel
+ipywidgets
+numpy
+matplotlib
+pandas
+torch
+torchvision
+scikit-learn
+opencv-python
+scikit-image
+openpyxl
+tqdm
+opencv-python
+torchsummary
+albumentations
+wandb
