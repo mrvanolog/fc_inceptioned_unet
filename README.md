@@ -1,4 +1,4 @@
-# fc_inceptioned_unet
+# Fully Connected Inceptioned U-Net
 Code for the UCL MSc Data Science and Machine Learning thesis.
 
 ## Repository structure
@@ -15,3 +15,6 @@ Due to data sharing restrictions, we anonymised part of the data. However, if yo
 
 ## References
 [1] Parvaneh Saeedi, Dianna Yee, Jason Au, and Jon Havelock. Automatic identification of human blastocyst components via texture. *IEEE Transactions on Biomedical Engineering*, 64(12):2968–2978, 2017.
+
+## Note
+Due to data sharing restrictions the commit history wasn't published publicly, since it contains sensitive data.
