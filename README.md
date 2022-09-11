@@ -8,7 +8,7 @@ Code for the UCL MSc Data Science and Machine Learning thesis.
 * `utils/losses.py` contains classes with custom losses
 * `utils/trainer.py` contains class that handles model training, evaluation, and results visualisation
 * `train_*.py` contain code to train the corresponding model and perform a grid search
-* `*.ipynb` contain a more interactive code to train the corresponding model
+* `*.ipynb` contain a more interactive code to train and/or evaluate the corresponding model
 
 ## Data
 Due to data sharing restrictions, we anonymised part of the data. However, if you wish to train and evaluate the model yourself, you can use the `SFUDataset` class with a publicly available dataset introduced by the Pacific Centre for Reproductive Medicine (PCRM) [1].
