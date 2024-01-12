@@ -4,7 +4,7 @@ Code for the UCL MSc Data Science and Machine Learning thesis.
 ## Repository structure
 * `datasets/blastocyst.py` contains `Dataset` classes that handle the data
 * `models/unet.py` contains the baseline U-Net model
-* `models/unet.py` contains the proposed FC Inceptioned U-Net model
+* `models/incept_unet.py` contains the proposed FC Inceptioned U-Net model
 * `utils/losses.py` contains classes with custom losses
 * `utils/trainer.py` contains class that handles model training, evaluation, and results visualisation
 * `train_*.py` contain code to train the corresponding model and perform a grid search
