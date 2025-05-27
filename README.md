@@ -1,5 +1,4 @@
 # Fully Connected Inceptioned U-Net
-Code for the UCL MSc Data Science and Machine Learning thesis.
 
 ## Repository structure
 * `datasets/blastocyst.py` contains `Dataset` classes that handle the data
