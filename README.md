@@ -1,4 +1,5 @@
 # Fully Connected Inceptioned U-Net
+Semantic segmentation model for embryo component detection on the image.
 
 ## Repository structure
 * `datasets/blastocyst.py` contains `Dataset` classes that handle the data
